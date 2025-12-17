@@ -13,6 +13,6 @@ Gists are small pieces of code. You can create Gists here on GitHub for people t
 
 <img width="243" height="267" alt="image" src="https://github.com/user-attachments/assets/f67e51be-3239-49e3-b13b-1610681e9519" />
 
-I wrote a small function, here is [my first Gist]()
+I wrote a small function, here is [my first Gist](<script src="https://gist.github.com/danaalbright/a0f768f2a7e412b06d5f6145d8e16710.js"></script>)
 
 
