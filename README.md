@@ -1,5 +1,5 @@
 # Learning-Cloud-Computing
-I am using my time to leverage my technological skills. I keep seeing more and more job listings looking for people experienced in cloud computing. In general, everyone must adapt and keep current with new trends, specially if you want to have a career in technology. I have learned to see the positive side of things, and this tough job market is a great opportunity to independently learn new things. Enjoy what you do. :D
+I am using my time to leverage my technological skills. I keep seeing more and more job listings looking for people experienced in cloud computing. In general, everyone must adapt and keep current with new trends, specially if you want to have a career in technology. I have learned to see the positive side of things, and this tough job market is a great opportunity to independently learn new things. If you are in the same boat, remember to enjoy what you do. :D
 
 This is where I share what I learn from Cloud Computing.
 
